@@ -1,0 +1,205 @@
+
+.inicio{
+    text-align:center;
+    background-color: #816498;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 2%, rgba(255,255,255,1) 2%, rgba(255,255,255,1) 98%, rgba(0,0,0,1) 98%);}
+/*SEGMENTO DE ENCABEZADO E INICIO*/
+.logo{
+position: absolute;
+left: 47%;
+bottom: 80%;
+    width: 98px;
+    height: 98px;
+    align-items: center;
+    border-radius: 100px;
+    border-style:groove;
+}
+
+.imgF{ 
+
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+
+}
+
+
+.titulo{
+    background-color: #000000;
+    color: #d3b0e7;
+    font-size: 30px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;text-align: center;
+}
+
+.presentacion {
+  font-family: "Raleway", sans-serif;
+  font-size: 60px;
+  font-family: "Kode Mono", monoespaciado;
+  font-optical-sizing: auto;
+  font-weight: peso;
+  font-style: normal;
+
+  position:absolute;
+  top: 140px;
+  right: 50%;
+
+}
+
+    /*BARRA DE NAVEGACION*/
+.barra_navegacion{
+
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items:  center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    padding: 0px;
+    background-color: #000000;
+    text-align:center;
+}
+.a{
+    font-family: "Raleway", sans-serif;
+    font-size: 22px;
+    font-family: "Kode Mono", monoespaciado;
+    font-weight: peso;
+    font-style: normal;
+    background-color: #000;
+    text-decoration: none;
+    color: #ffffff;
+    padding-left: 122px;
+    padding-right: 122px;
+    padding-top: 5px;
+}
+.a:hover{
+    
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.boton{
+    background-color: aquamarine;
+    padding: 30px;
+    margin: 25px;
+    border: #000;
+}
+.boton:hover{
+        
+    background-color: #ffffff;
+    text-decoration: none;
+    color: #000000;
+}
+/* SEGMENTOS DE CONTENIDO*/
+.segmento_m_completo{
+    font-family: "Raleway", sans-serif;
+    font-size: 30px;
+    font-family: "Kode Mono", monoespaciado;
+    font-optical-sizing: auto;
+    font-weight: peso;
+    font-style: normal;
+    
+    position: absolute;
+    top: 120px;
+    left: 80%;
+    margin: auto;
+
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+
+    text-align: right;
+}
+
+
+.pie-pagina {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 150px;
+    color: azure;
+    position: relative;
+    background-color: rgb(46, 44, 44);
+}
+
+
+
+/* Segmentos redes */
+.segmento_youtube{
+
+    
+    background-color: #c40c0c;
+    width: 100px;
+    height: 100px;
+
+    border-radius: 100px;
+    border-color: #000000;
+    border-style:double;
+    margin: auto;
+
+    cursor: pointer;
+}
+.segmento_youtube:hover{
+    transition: all 0.6s ease;
+    background-color: #f7b2b2;
+    border-color: #c40c0c;
+}
+
+.segmento_twich{
+
+
+    background-color: #900dc4;
+    width:   100px;
+    height: 100px;
+
+    border-radius: 100px;
+        border-color: #000000;
+    border-style:double;
+    margin: auto;
+    cursor: pointer;
+}
+.segmento_twich:hover{
+
+    
+    transition: all 0.6s ease;
+    border-radius: 100px;
+        
+    border-style:double;
+    margin: auto;
+    cursor: pointer;
+    background-color: #d3b0e7;
+    border-color: #730e9b;
+}
+.segmento_insta{
+    background: rgb(255, 255, 255);
+    width:   100px;
+    height: 100px;
+
+    border-radius: 100px;
+    background: linear-gradient(211deg, rgba(138,58,185,1) 4%, rgba(76,104,215,1) 12%, rgba(205,72,107,1) 25%, rgba(205,72,107,1) 30%, rgba(252,204,99,1) 52%, rgba(188,42,141,1) 66%, rgba(233,89,80,1) 87%, rgba(251,173,80,1) 100%);
+    border-style: calc();
+    border-color: linear-gradient(211deg, rgba(138,58,185,1) 4%, rgba(76,104,215,1) 12%, rgba(205,72,107,1) 25%, rgba(205,72,107,1) 30%, rgba(252,204,99,1) 52%, rgba(188,42,141,1) 66%, rgba(233,89,80,1) 87%, rgba(251,173,80,1) 100%);
+
+    border-style:double;
+    margin: auto;
+    cursor: pointer;
+}
+
+.segmento_insta:hover{
+    transition: all 0.6s ease;
+    background: linear-gradient(211deg, rgb(211, 201, 218) 4%, rgb(169, 181, 230) 12%, rgb(214, 144, 163) 25%, rgb(211, 147, 164) 30%, rgb(233, 210, 161) 52%, rgb(211, 146, 190) 66%, rgb(219, 164, 160) 87%, rgb(216, 194, 167) 100%);
+    border-style: calc();
+    border-color: linear-gradient(211deg, rgba(138,58,185,1) 4%, rgba(76,104,215,1) 12%, rgba(205,72,107,1) 25%, rgba(205,72,107,1) 30%, rgba(252,204,99,1) 52%, rgba(188,42,141,1) 66%, rgba(233,89,80,1) 87%, rgba(251,173,80,1) 100%);
+
+}

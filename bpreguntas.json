@@ -1,0 +1,465 @@
+[
+ 
+    {
+        "categoria" : "cultura",
+        "pregunta": "Cual de los siguientes es un villano de Spider-man",
+        "acierto": "El duende verde",
+        "incorrecta01": "EL joker",
+        "incorrecta02": "Galactus",
+        "incorrecta03": "Ultron",
+        "imagen": "https://images.pexels.com/photos/13246954/pexels-photo-13246954.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "object_fit": "cover"
+
+    },
+
+    {
+        "categoria": "Literatura",
+        "pregunta": "Quien es el director de hogwarts",
+        "acierto": "Albus Dumbledore",
+        "incorrecta01": "Harry Potter",
+        "incorrecta02": "Newt Scamander",
+        "incorrecta03": "Ron Wesley",
+        "imagen": "https://images.pexels.com/photos/8391469/pexels-photo-8391469.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "objectFit": "cover"
+    },
+    
+    {
+        "categoria": "Astronomia",
+        "pregunta": "Cual es el planeta mas lejano del sol",
+        "acierto": "Neptuno",
+        "incorrecta01": "Marte",
+        "incorrecta02": "tatooine",
+        "incorrecta03": "Saturno",
+        "imagen": "https://media.istockphoto.com/id/182792016/es/foto/sistema-solar.jpg?s=612x612&w=0&k=20&c=SCXA0dU5tBv5RkKoh1KeR7WcWhyJsn68qlhb15t3TVY=",
+        "objectFit": "cover"
+    },
+    
+    { 
+        "categoria": "Cultura",
+        "pregunta": "El animal de la bandera de Mexico es:",
+        "acierto": "Un aguila",
+        "incorrecta01": "Un oso Polar",
+        "incorrecta02": "Una nutria",
+        "incorrecta03": "Un tejon",
+        "imagen": "https://images.pexels.com/photos/3591074/pexels-photo-3591074.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    
+    { 
+        "categoria": "Cultura",
+        "pregunta": "Cual es el pais mas seguro del mundo?",
+        "acierto": "Islandia",
+        "incorrecta01": "Mexico",
+        "incorrecta02": "Noruega",
+        "incorrecta03": "Zuisa",
+        "imagen": "https://images.pexels.com/photos/18324560/pexels-photo-18324560/free-photo-of-ciudad-rio-viaje-viajar.jpeg?auto=compress&cs=tinysrgb&w=600"
+        ,"objectFit": "cover"
+
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "acierto": "Sherlock Holmes",
+        "incorrecta01": "Katniss Everdeen",
+        "incorrecta02": "Hermione Granger",
+        "incorrecta03": "James Potter ",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Historia",
+        "pregunta": "De qué árbol eran las hojas que llevaban en la cabeza los antiguos romanos para simbolizar la victoria?",
+        "acierto": "Laurel ",
+        "incorrecta01": "Pino ",
+        "incorrecta02": "Naranjo ",
+        "incorrecta03": "Olivo"
+    },
+
+    {
+        "categoria": "Cultura",
+        "pregunta": "El cuadricep se encuentra en que area del cuerpo?",
+        "acierto": "Pierna ",
+        "incorrecta01": "Pecho ",
+        "incorrecta02": "Brazo",
+        "incorrecta03": "Apdomen"
+    },
+
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cómo se llama el estadio del FC Barcelona?",
+        "acierto": "Camp Nou",
+        "incorrecta01": "Santiago Bernabeu",
+        "incorrecta02": "La Masia",
+        "incorrecta03": "Barcelona Camp"
+    },
+
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de balonmano?",
+        "acierto": "60 Minutos",
+        "incorrecta01": "30 Minutos",
+        "incorrecta02": "45 Minutos",
+        "incorrecta03": "90 Minutos"
+    },
+
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién ganó cuatro mundiales consecutivos de Fórmula 1?",
+        "acierto": "Sebastian Vettel",
+        "incorrecta01": "Fernando Alonso",
+        "incorrecta02": "Lewis Hamilton",
+        "incorrecta03": "Kimi Raikkonen\r"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llamaba el perro de Luke Skywalker?",
+        "acierto": "No Tenía",
+        "incorrecta01": "Yoda Dog",
+        "incorrecta02": "Rithaaard",
+        "incorrecta03": "Raikonen\r"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cual es verdadero nombre de Goku?",
+        "acierto": "Kakarot",
+        "incorrecta01": "Ese es",
+        "incorrecta02": "Gogeta",
+        "incorrecta03": "Broli"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "El nombre del abuelo de Goku",
+        "acierto": "Gohan",
+        "incorrecta01": "Roshi",
+        "incorrecta02": "Picoro",
+        "incorrecta03": "Kiosama"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué serie es Barney Stinson uno de los protagonistas?",
+        "acierto": "How I Met Your Mother",
+        "incorrecta01": "The Big Bang Theory",
+        "incorrecta02": "Revenge",
+        "incorrecta03": "Breaking Bad"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Primera princesa de disney",
+        "acierto": "Blanca nieves",
+        "incorrecta01": "Pocahontas",
+        "incorrecta02": "Cenicienta",
+        "incorrecta03": "Mulan",
+        "imagen":"https://images.pexels.com/photos/3411135/pexels-photo-3411135.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Primera pelicula de Star Wars en ESTRENARSE",
+        "acierto": "Una nueva esperanza",
+        "incorrecta01": "La amenza fantasma",
+        "incorrecta02": "El imperio contrataca",
+        "incorrecta03": "El retorno del jedi",
+        "imagen":"https://images.pexels.com/photos/3526022/pexels-photo-3526022.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    
+    {
+        "categoria": "Conocimiento",
+        "pregunta": "Java es:",
+        "acierto": "Un lenguaje de programacion",
+        "incorrecta01": "Un personaje de Star wars",
+        "incorrecta02": "Una version de minecraft",
+        "incorrecta03": "Abreviacion de Javali"
+    },
+
+    {
+        "categoria": "Conocimiento",
+        "pregunta": "El hardware es:",
+        "acierto": "La parte fisica de la computadora",
+        "incorrecta01": "La parte programable de la computadora",
+        "incorrecta02": "El cristal de la pantalla",
+        "incorrecta03": "ninguna",
+        "imagen": "https://images.pexels.com/photos/1109543/pexels-photo-1109543.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién disparó al Sr. Burns?",
+        "acierto": "Maggie Simpson",
+        "incorrecta01": "Smithers",
+        "incorrecta02": "Homer Simpson",
+        "incorrecta03": "Pequeño Ayudante de Santa Claus\r"
+    },
+
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el nombre completo de Homer?",
+        "acierto": "Homer Jay Simpson",
+        "incorrecta01": "Homer Josh Simpson",
+        "incorrecta02": "Homer Jake Simpson",
+        "incorrecta03": "Homer Jeff Simpson\r"
+    },
+
+    {
+        "categoria": "Geografia",
+        "pregunta": "Donde se encuentra el gran cañon?",
+        "acierto": "Arizona",
+        "incorrecta01": "Los angeles",
+        "incorrecta02": "Texas",
+        "incorrecta30": "Houston",
+        "imagen": "https://media.istockphoto.com/id/1128415816/es/foto/vista-panor%C3%A1mica-de-la-laguna-de-simpson-en-el-parque-nacional-macdonnell-oeste-en-outback.jpg?b=1&s=612x612&w=0&k=20&c=15fYn2Dy3oaaXbGpcXEztujrqFu_SXYLIkENou7Gcwo="
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "acierto": "Ernest Hemingway",
+        "incorrecta01": "Julio Verne",
+        "incorrecta02": "Gabriel García Márquez",
+        "incorrecta03": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cocina",
+        "pregunta": "Por cada taza de arroz, cuantas son de agua?",
+        "acierto": "2 Tzas",
+        "incorrecta01": "1 Tza",
+        "incorrecta02": "1/2 Taza",
+        "incorrecta03": "1 Taza y 1/2",
+        "imagen": "https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cocina",
+        "pregunta": "A que temperatura hierve el agua?",
+        "acierto": "100ºC",
+        "incorrecta01": "200ºC",
+        "incorrecta02": "1000ºC",
+        "incorrecta03": "-100ºC",
+        "imagen": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cocina",
+        "pregunta": "La levadura se usa para?",
+        "acierto": "Elevar la masa",
+        "incorrecta01": "sazonar la comida",
+        "incorrecta02": "Ninguno",
+        "incorrecta03": "Darle sabor a la cerveza",
+        "imagen": "https://media.istockphoto.com/id/516283584/es/foto/porci%C3%B3n-de-secado-de-levaduras.jpg?b=1&s=612x612&w=0&k=20&c=77BAnbCR7PEJG7RjDGsxzvbG_-p_HCT7UB8dYxWVWoM="
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Cocina",
+        "pregunta": "Que es el fondo en gastronomia?",
+        "acierto": "La base de la sopa",
+        "incorrecta01": "Un traste de cocina",
+        "incorrecta02": "La base de una bebida caliente",
+        "incorrecta03": "Un utencilio de cocina",
+        "imagen": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué se altera cuando nos damos un golpe en la cabeza que nos hace \"ver las estrellas\"?",
+        "acierto": "El Nervio Óptico",
+        "incorrecta01": "El Hipotálamo",
+        "incorrecta02": "El Bulbo Raquídeo",
+        "incorrecta03": "La Pituitaria\r"
+    },
+
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál de los siguientes órganos NO es parte del sistema inmunológico?",
+        "acierto": "Esófago",
+        "incorrecta01": "Médula Ósea",
+        "incorrecta02": "Bazo",
+        "incorrecta03": "Timo \r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De qué color es la sangre de los peces?",
+        "acierto": "Rojo",
+        "incorrecta01": "Verde Oscuro",
+        "incorrecta02": "Marrón Oscuro",
+        "incorrecta03": "Azul\r",
+        "imagen": "https://i.ibb.co/Jyvx3Gb/540dc6daf152es296230-p-1.jpg"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántas cavidades estomacales tiene una vaca?",
+        "acierto": "Cuatro",
+        "incorrecta01": "Una",
+        "incorrecta02": "Dos",
+        "incorrecta03": "Tres\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es lo que transforma la leche en yogur?",
+        "acierto": "Una Bacteria",
+        "incorrecta01": "Un Virus",
+        "incorrecta02": "Un Musgo",
+        "incorrecta03": "El Tiempo\r",
+        "imagen": "https://i.ibb.co/6ZWgY0f/recomendaciones-yogures.jpg"
+        ,"objectFit": "cover"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Las nutrias de mar ¿con que abren las ostras?",
+        "acierto": "Con Una Piedra",
+        "incorrecta01": "Con Un Palo",
+        "incorrecta02": "Con Los Dientes",
+        "incorrecta03": "Con Las Uñas\r",
+        "imagen": "https://i.ibb.co/3SSzLyQ/unnamed.jpg"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se mide la fuerza del viento en el mar?",
+        "acierto": "Nudos",
+        "incorrecta01": "Pies",
+        "incorrecta02": "Zancadas",
+        "incorrecta03": "Kilómetros Por Hora\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el órgano que tiene como única función el placer?",
+        "acierto": "Clítoris",
+        "incorrecta01": "Vulva",
+        "incorrecta02": "Pene",
+        "incorrecta03": "Testículos\r",
+        "imagen": "https://i.ibb.co/9y1q0cN/1425769522.jpg"
+    },
+
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la fórmula química del agua?",
+        "acierto": "H2O",
+        "incorrecta01": "HO",
+        "incorrecta02": "HO2",
+        "incorrecta03": "Agu\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo de Bromo?",
+        "acierto": "Br",
+        "incorrecta01": "No Es Un Elemento, Es Un Compuesto",
+        "incorrecta02": "B",
+        "incorrecta03": "BH\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+        "acierto": "En El Tobillo",
+        "incorrecta01": "En El  Brazo ",
+        "incorrecta02": "En La Espalda",
+        "incorrecta03": "En La Rodilla\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Sistema operativo para telefonos más usado",
+        "acierto": "Android",
+        "incorrecta01": "IOS",
+        "incorrecta02": "Microsoft",
+        "incorrecta03": "Windows\r"
+    },
+
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuál es la raíz cuadrada del 169?",
+        "acierto": "13",
+        "incorrecta01": "15",
+        "incorrecta02": "14",
+        "incorrecta03": "17\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "acierto": "Diamante",
+        "incorrecta01": "Adamantino",
+        "incorrecta02": "Cuarzo",
+        "incorrecta03": "Mármol\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué dedo del pie tiene generalmente la uña más grande?",
+        "acierto": "Dedo Gordo",
+        "incorrecta01": "Dedo Anular ",
+        "incorrecta02": "Dedo Meñique",
+        "incorrecta03": "Dedo Índice\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué sustancia libera el Sistema Parasimpático?",
+        "acierto": "Acetilcolina",
+        "incorrecta01": "Adrenalina",
+        "incorrecta02": "Noradrenalina",
+        "incorrecta03": "Serotonina\r"
+    },
+
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué nombre recibe la persona que no tiene melanina en los melanocitos de la piel?",
+        "acierto": "Albina ",
+        "incorrecta01": "Despigmentada",
+        "incorrecta02": "Amelanínica",
+        "incorrecta03": "Hipomelanínica\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué metal es líquido a temperatura ambiente?",
+        "acierto": "Mercurio",
+        "incorrecta01": "Hierro",
+        "incorrecta02": "Wolframio",
+        "incorrecta03": "Níquel\r"
+    }
+
+    ,
+    {
+        "categoria": "Biologia",
+        "pregunta": "Como se le llama al proceso de alimentacion de las plantas?",
+        "acierto": "Fotosointesis",
+        "incorrecta01": "Respiracion celular",
+        "incorrecta02": "Fermentacion",
+        "incorrecta03": "Digestion"
+    }
+
+    ,
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Funcion principal del ADN en las celulas",
+        "acierto": "Contener informacion genetica",
+        "incorrecta01": "Almacenar energia",
+        "incorrecta02": "Proporcionar soprte estructural",
+        "incorrecta03": "Transportar oxigeno"
+    }
+]
